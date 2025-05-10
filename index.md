@@ -6,3 +6,6 @@
 ``` cpp
 int a = 0;
 ```
+ - [x] task1
+ - [ ] task2
+ - [ ] task3
